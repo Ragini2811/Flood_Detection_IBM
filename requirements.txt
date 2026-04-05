@@ -1,1 +1,10 @@
-
+segmentation-models-pytorch
+albumentations
+rasterio
+timm
+einops
+transformers
+huggingface_hub
+torch
+numpy
+pandas
